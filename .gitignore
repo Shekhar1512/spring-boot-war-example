@@ -13,3 +13,7 @@ buildNumber.properties
 .idea/*
 
 .vagrant
+
+Jenkinsfile
+Vagrantfile
+setup.sh
